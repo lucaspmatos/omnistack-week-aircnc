@@ -4,4 +4,4 @@ A semana OmniStack, evento on-line realizado pela [Rocketseat](https://rocketsea
 Em sua nona edição, o desafio foi criar uma aplicação de reservas de espaços de trabalho para desenvolvimento de software e afins: o *Aircnc*.
 
 ## Professor do evento
-[Diego Fernandes](https://github.com/diego3g)
+:man_teacher: [Diego Fernandes](https://github.com/diego3g)
